@@ -1,0 +1,112 @@
+.bg1{
+    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/solar-panel-installation-roof-with-nice-view_27109-461.avif');
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    border: none;
+    transition: 0.5s;
+    border-radius: 10px;
+}
+.bg1:hover{
+    transform: translateY(-15px)
+}
+.bg2{
+    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/home-security-video-surveillance-camera-installed-wall-nice-house-alarm-concept-security-camera-home-burglary_853928-1214.avif');
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    border: none;
+    transition: 0.5s;
+    border-radius: 10px;
+}
+.bg2:hover{
+    transform: translateY(-15px)
+}
+.bg3{
+    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/97520427c4254d6981388a84e21528ab.jpg');
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    border: none;
+    transition: 0.5s;
+    border-radius: 10px;
+}
+.bg3:hover{
+    transform: translateY(-15px)
+}
+.bg4{
+    background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/electrical-circuits-design.jpg');
+    background-size: cover;
+    height: 50vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    border: none;
+    transition: 0.5s;
+    border-radius: 10px;
+}
+.bg4:hover{
+    transform: translateY(-15px)
+}
+
+.btn1{
+    border-radius: 15px;
+    background-color: black;
+    color: goldenrod;
+    font-weight: 800;
+    padding-left: 25px;
+    padding-right: 25px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+.con1{
+    background: linear-gradient(130deg, #e6f2ff, #fff0e6,#e6f2ff);
+    padding: 40px;
+}
+.h1a{
+    text-align: center;
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-shadow: gold 1px 1px 8px;
+    font-size: 25px;
+    font-weight: 800;
+}
+.hib{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+    text-shadow: black 1px 1px 8px;
+}
+.i1{
+    text-align: center;
+    font-size: 30px;
+    color: goldenrod;
+    text-shadow: gold 1px 1px 8px;
+}
+.lp{
+    font-size: small;
+    color: goldenrod;
+    font-weight: 700;
+}
+.modal{
+    color: white;
+}
+.btn2{
+    color: white;
+    font-weight: 800;
+    background-color: black;
+    border-radius: 7px;
+}
+#hide1{
+    display: none;
+  }
+  .form-control{
+    color: white;
+  }
+  .eye{
+    color: white;
+    margin-top: -38px;
+    font-size: 20px;
+    margin-right: 5px;
+  }
