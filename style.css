@@ -1,7 +1,7 @@
 .bg1{
     background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/solar-panel-installation-roof-with-nice-view_27109-461.avif');
     background-size: cover;
-    height: 50vh;
+    height: 40vh;
     width: 100%;
     background-repeat: no-repeat;
     border: none;
@@ -14,7 +14,7 @@
 .bg2{
     background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/home-security-video-surveillance-camera-installed-wall-nice-house-alarm-concept-security-camera-home-burglary_853928-1214.avif');
     background-size: cover;
-    height: 50vh;
+    height: 40vh;
     width: 100%;
     background-repeat: no-repeat;
     border: none;
@@ -27,7 +27,7 @@
 .bg3{
     background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/97520427c4254d6981388a84e21528ab.jpg');
     background-size: cover;
-    height: 50vh;
+    height: 40vh;
     width: 100%;
     background-repeat: no-repeat;
     border: none;
@@ -40,7 +40,7 @@
 .bg4{
     background:linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('img/electrical-circuits-design.jpg');
     background-size: cover;
-    height: 50vh;
+    height: 40vh;
     width: 100%;
     background-repeat: no-repeat;
     border: none;
@@ -63,7 +63,7 @@
 }
 .con1{
     background: linear-gradient(130deg, #e6f2ff, #fff0e6,#e6f2ff);
-    padding: 40px;
+    padding: 10px;
 }
 .h1a{
     text-align: center;
