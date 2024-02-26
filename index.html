@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="/styles">
     <link rel="stylesheet" href="/index.js">
     <link rel="icon" href="img/logo.png.jpg">
+    <script src="https://unpkg.com/@botpoison/browser" async></script>
 </head>
 <body>
     <div class="container-fluid con1">
@@ -91,11 +92,14 @@
         <div class="modal-body p-3">
           <h1 class="h1c">Sign in</h1>
           <p>Welcome back! Please sign in with your email address and password.</p>
-          <form action="https://submit-form.com/IFuvQbU6j" method="post">
+          <form action="https://submit-form.com/IFuvQbU6j"  data-botpoison-public-key="pk_e920776c-e978-4f96-a35f-4704e03dee57" method="post" target="_blank">
             <input
              type="hidden"
             name="_redirect"
-            value="https://kenux-shop.onrender.com"/>
+            value="https://kenux-shop.onrender.com"
+            type="hidden"
+            value="false"/>
+            
             <div class="mb-3 mt-3">
               <input type="email" class="form-control bg-dark p-3" id="email" placeholder="Enter email" name="email" style="color: white;" required>
             </div>
@@ -114,7 +118,7 @@
       </div>
     </div>
   </div>
-  
+  <script src="https://unpkg.com/@botpoison/browser" async></script>
 <script src="index.js"></script>
 <script src="bootstrap5/js/bootstrap.bundle.min.js"></script>
 </body>
