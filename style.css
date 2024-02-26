@@ -103,6 +103,7 @@
   }
   .form-control{
     color: white;
+    border-radius: 15px;
   }
   .eye{
     color: white;
